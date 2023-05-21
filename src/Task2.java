@@ -21,6 +21,7 @@ public class Task2 {
         set1.add(3);
         set1.add(5);
         set1.add(7);
+        set1.add(9);
         Set<Integer> set2 = new HashSet<>();
         set2.add(1);
         set2.add(3);

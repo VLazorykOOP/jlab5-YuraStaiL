@@ -1,0 +1,60 @@
+
+name = 12,
+country = 12,
+education = higher education,
+age = 12,
+height = 12,
+salary = 12,00,
+hiredate = Mon May 22 02:01:04 EEST 2023
+
+name = 12,
+country = 12,
+education = higher education,
+age = 12,
+height = 12,
+salary = 12,00,
+hiredate = Mon May 22 02:01:06 EEST 2023
+
+name = 12,
+country = 12,
+education = secondary special education,
+age = 12,
+height = 12
+
+name = Angelina,
+country = Sweden,
+education = higher education,
+age = 18,
+height = 182,
+salary = 1322,00,
+hiredate = Tue Jan 28 00:00:00 EET 2020
+
+name = Vasyl,
+country = Ukraine,
+education = higher education,
+age = 19,
+height = 177,
+salary = 700,00,
+hiredate = Thu Jan 28 00:00:00 EET 2021
+
+name = Shepard,
+country = Poland,
+education = secondary special education,
+age = 25,
+height = 167
+
+name = Sergio,
+country = Italia,
+education = higher education,
+age = 31,
+height = 188,
+salary = 1900,00,
+hiredate = Tue Jan 28 00:00:00 EET 2020
+
+name = Bob,
+country = USA,
+education = higher education,
+age = 49,
+height = 155,
+salary = 1974,00,
+hiredate = Thu Jan 28 00:00:00 EET 2021

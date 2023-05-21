@@ -4,19 +4,19 @@ country = 12,
 education = higher education,
 age = 12,
 height = 12,
-salary = 12,00,
-hiredate = Mon May 22 02:08:31 EEST 2023
+salary = 121,00,
+hiredate = Mon May 22 02:14:59 EEST 2023
 
-name = 12,
-country = 12,
+name = 2,
+country = 1212,
 education = higher education,
 age = 12,
 height = 12,
 salary = 12,00,
-hiredate = Mon May 22 02:08:33 EEST 2023
+hiredate = Mon May 22 02:15:01 EEST 2023
 
 name = 12,
-country = 12,
+country = ,
 education = secondary special education,
 age = 12,
 height = 12

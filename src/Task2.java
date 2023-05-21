@@ -16,7 +16,6 @@ public class Task2 {
     }
 
     public static void task2() {
-        Scanner scanner = new Scanner(System.in);
         Set<Integer> set1 = new HashSet<>();
         set1.add(3);
         set1.add(5);
